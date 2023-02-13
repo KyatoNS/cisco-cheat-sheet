@@ -12,7 +12,7 @@ no ip http secure-server
 crypto key zeroize
 ```
 
-3 - Généré un certificat en RSA 2048
+3 - Générer un certificat en RSA 2048
 
 ```
 crypto key generate rsa label somename-rsa modulus 2048
